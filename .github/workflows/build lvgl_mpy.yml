@@ -16,7 +16,7 @@ jobs:
             variant: SPIRAM_OCT
             flash_size: 16
             display: ili9341
-            indev: gt911
+            indev: xpt2046
           - board: ESP32_GENERIC_C3
             variant: ""
             flash_size: 8
